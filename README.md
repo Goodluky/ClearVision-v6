@@ -19,7 +19,7 @@
 [![Issues][issues-badge]][issues-link]
 [![Pull Requests][prs-badge]][prs-link]
 
-![v6 Sapphire](https://github.com/ClearVision/ClearVision-v6/raw/master/screenshots/6-stable.4.7.9.png)
+![Lookey's Style](https://github.com/Goodluky/ClearVision-v6/blob/master/image_2023-07-17_210518886.png)
 
 </div>
 
