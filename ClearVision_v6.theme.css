@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://github.com/Goodluky/RAndomNeS/blob/main/Images/VRChat_2023-03-22_18-09-51.296_2560x1440.png); /* app background image (link must be HTTPS) [default: url(https://cdn.discordapp.com/attachments/738971240600961056/1130661487468355645/402ed9ee-7ad4-4976-805e-f5b1f83604d4_1.png)]*/
+  --background-image: url(https://raw.githubusercontent.com/Goodluky/RAndomNeS/main/Images/VRChat_2023-03-22_18-09-51.296_2560x1440.png); /* app background image (link must be HTTPS) [default: url(https://cdn.discordapp.com/attachments/738971240600961056/1130661487468355645/402ed9ee-7ad4-4976-805e-f5b1f83604d4_1.png)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
