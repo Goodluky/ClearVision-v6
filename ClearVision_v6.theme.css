@@ -45,16 +45,16 @@
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
-  --background-brightness: 110%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
-  --background-contrast: 100%; /* app background contrast [default: 100%] */
+  --background-brightness: 85%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
+  --background-contrast: 95%; /* app background contrast [default: 100%] */
   --background-saturation: 100%; /* app background saturation [default: 100%] */
   --background-invert: 0%; /* app background invert (0 - 100%)  [default: 0%] */
   --background-grayscale: 0%; /* app background grayscale ( 0 - 100%) [default: 0%] */
   --background-sepia: 0%; /* app background sepia (0 - 100%) [default: 0%] */
-  --background-blur: 0px; /* app background blur [default: 0px] */
+  --background-blur: 0.05px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://github.com/Goodluky/RAndomNeS/blob/main/Images/2.png?raw=true); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
